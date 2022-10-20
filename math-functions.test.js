@@ -7,7 +7,7 @@
 //Multiplication
 //Division
 
-import { equal } from 'assert';
+const { equal } = require('assert');
 
 describe('Mathmatical Operations', () => {
   it('Should add two numbers and return their sum', () => {
